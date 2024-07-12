@@ -16,7 +16,7 @@ on:
       rom_url:
         description: 'ROM 下载直链'
         required: true
-        default: 'https://cdnorg.d.miui.com/V14.0.4.0.TJBCNXM/miui_UMI_V14.0.4.0.TJBCNXM_23fc5ef4ee_13.0.zip'
+        default: 'https://bn.d.miui.com/V14.0.7.0.TKKCNXM/miui_HAYDN_V14.0.7.0.TKKCNXM_62f554b4aa_13.0.zip'
 
 jobs:
   extract_partition:
